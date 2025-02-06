@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**SmitKanani55/SmitKanani55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 I'm a Computer Science Engineering student passionate about Data Structure and Algorithm. With a strong foundation in C++,OOPs,Python,Operating Systems,Web development and SQL.<br><br>👉I enjoy problem-solving and expanding my knowledge in software development.<br> <br>👉 I'm an enthusiastic Business and Marketing guy hobbyist, merging technical expertise with Business flair to deliver a Job ready person. <br><br>👉I embrace new challenges, constantly learn about emerging technologies, and seek exciting projects and collaborations in Web development and Coding. <br><br><br>Let's connect and embark on a journey of innovation and growth!<br>Reach me via LinkedIn or email at smitbkanani@gmail.com.
 
